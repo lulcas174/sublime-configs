@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"ColorSchemeEditor",
+		"DocBlockr",
+		"Emmet",
+		"EmmetOneLine",
+		"GitGutter",
+		"Package Control",
+		"Terminal",
+		"Vue Syntax Highlight",
+	],
+}
